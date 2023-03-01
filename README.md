@@ -1,2 +1,7 @@
+##
 
-<img src= "https://discord.com/channels/@me/1070489533256314891/1080356889080123464">
+<b>Fulgure, Brasil!</b>
+
+##
+
+<p>Sistema educativo com perguntas referentes aos aspectos culturais e linguísticos de cada região do Brasil.</p>

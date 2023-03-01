@@ -1,6 +1,8 @@
 ##
 
-<b>Fulgure, Brasil!</b>
+<div text-align: "center">
+  <b>Fulgure, Brasil!</b>
+<div>
 
 ##
 
